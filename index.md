@@ -1,3 +1,5 @@
-## Willkommen zu meiner Website!
-
-Diese Seite ist bis jetzt noch ziemlich inhaltsleer, jedoch plane ich hier in Zukunft ein kleines Portfolio aus meinen privaten Programmier-Abenteuern vorzustellen.
+---
+title: Willkommen auf meiner Website!
+layout: default
+---
+# Hier wird in den nächsten Tagen einiges geändert, noch ist die Seite leer.
