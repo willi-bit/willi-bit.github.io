@@ -1,5 +1,6 @@
 {
-  "dependencies": {
-    "pnpm": "^8.6.9"
+  "devDependencies": {
+    "@sveltejs/adapter-static": "^2.0.3",
+    "gh-pages": "^5.0.0"
   }
 }
